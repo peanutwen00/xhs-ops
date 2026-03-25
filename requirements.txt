@@ -1,0 +1,20 @@
+# 小红书自动化运营依赖
+
+# 浏览器自动化
+playwright>=1.40.0
+
+# Markdown 处理
+markdown>=3.5.0
+
+# 图片处理
+Pillow>=10.0.0
+
+# 环境变量
+python-dotenv>=1.0.0
+
+# HTTP 请求（API 模式）
+requests>=2.31.0
+
+# 异步支持（Python 3.7+ 内置）
+# asyncio
+# typing
